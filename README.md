@@ -39,3 +39,10 @@ It helps identify how effectively solar energy is utilized and highlights opport
 This project provides valuable insights into solar energy efficiency and consumption behavior,
 enabling better energy management and sustainability decisions.The solar net meter data shows a positive growth trend,
 but adoption is not evenly distributed. With targeted strategies,solar usage can be expanded significantly across all regions.
+
+**created by**
+
+   ✒ Mathumitha Arjunan
+  
+  AI-DRIVEN DATA ANALYTICS
+
